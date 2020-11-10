@@ -32,4 +32,25 @@
      printf("%d\n, 3/2) => 1
      printf("%d\n, 3%2) => 1 
        3/2 = ( 1x2 + 1 )
+       
+   * Switch comand : 
+      - we use it to compare only one value with many cases 
+     so when it's true a specific statement will appeare .
+      - we have to a BREAK after each cases in order not the code 
+     to go to the next case 
+    
+   * pseudo code : is to write your code as a writen expression where 
+     any can understand it .
+     flow chart : is to write your code as plannes shapes and symbols 
+     so it will be easy to read .
+   
+   * While loop : 
+    - we use the while comand to count for a certain number to another .
+    - we use the comand do while to let the code finish when the user
+      tap the chosen value by the coder .
+    - we use the comand for while to make our conditions in one line 
+      which is usefull than the simple while comand .
+      
+      
+ 
     
