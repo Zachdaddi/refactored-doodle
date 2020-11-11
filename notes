@@ -9,10 +9,13 @@
  and "scanf" to let the user insert any information for the keyboard 
  
  * We use // or /*,*/ to write a comment which apears with a grey color in the code .
+  the perpse of using comment is to explain what we have written in our comand so we could understand them quickly .
  
  * Variables ( types , names , value ) 
  Ex : int x = 1;
- 
+   explanation : is a specific place in the memory contains a certain value ( text , number , pic , or any type of data )
+   
+
  * bool :
    5 == 5 && 10 > 4  True 
    5 == 6 || 5 > 9  one of these must be correct so we can say that it's true . so this one is false .
@@ -44,12 +47,14 @@
      flow chart : is to write your code as plannes shapes and symbols 
      so it will be easy to read .
    
-   * While loop : 
-    - we use the while comand to count for a certain number to another .
-    - we use the comand do while to let the code finish when the user
-      tap the chosen value by the coder .
-    - we use the comand for while to make our conditions in one line 
-      which is usefull than the simple while comand .
+   * Loops : 
+     While loop : is a pre test loop it test a specified conditional expression
+                  as long as the expression is true .
+     do while loop : work same as while loop but he test the conditions at the 
+                     end of the loop . 
+     For loop : enable us to make many steps in one line , and is used to 
+                control the loop .
+    
       
       
  
